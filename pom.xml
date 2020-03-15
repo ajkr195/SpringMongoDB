@@ -12,6 +12,7 @@
 	<name>SpringMongoDB</name>
 	<description>Demo project for Spring Boot and Mongo DB</description>
 
+
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
